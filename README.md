@@ -1,6 +1,6 @@
-# aoc2025
+# aoc
 
-This is my repository for Advent of Code 2025. This will include my solutions for each day and READMEs giving breakdowns for the problems.
+This is my repository for Advent of Code. This will include my solutions for each year and READMEs giving breakdowns for the problems.
 
 Project Structure:
 ```
